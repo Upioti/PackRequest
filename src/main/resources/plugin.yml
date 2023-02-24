@@ -1,0 +1,10 @@
+name: PackRequest
+version: '${project.version}'
+main: dev.upioti.pack.Main
+api-version: 1.19
+authors: [ Upioti ]
+description: Kicks users that dont use the server resourcepack
+commands:
+
+
+
