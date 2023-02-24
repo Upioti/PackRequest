@@ -12,7 +12,7 @@ Kicks players if download failed or declined
 #Requires players to load your texture pack before playing.
 
 #The Resource pack link, remember you need a direct-download
-Link: "https://cdn.discordapp.com/attachments/1044784131877380146/1078509971261624370/Hafen_2.18.zip"
+Link: ""
 
 #Message that asks the player to download the pack
 Request: "§b(§3!§b) §3To play on this server you need to download our custom resource pack, please §bACCEPT §3the download!"
