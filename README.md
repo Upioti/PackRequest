@@ -5,7 +5,7 @@ Kicks players if download failed or declined
 
 
 
-##Default config.yml
+## Default config.yml
 ### PackRequest/config.yml
 ```yaml
 
